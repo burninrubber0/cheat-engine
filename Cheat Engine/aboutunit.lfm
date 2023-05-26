@@ -7,7 +7,7 @@ object About: TAbout
   AutoSize = True
   BorderIcons = [biSystemMenu]
   BorderStyle = bsDialog
-  Caption = 'About Cheat Engine'
+  Caption = 'About Dirt Engine'
   ClientHeight = 310
   ClientWidth = 488
   OnClose = FormClose
