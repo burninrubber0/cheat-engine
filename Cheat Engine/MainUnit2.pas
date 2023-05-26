@@ -41,7 +41,7 @@ const ceversion=7.5;
 {$endif}
 
 resourcestring
-  cename = strCheatEngine+' 7.5';
+  cename = 'Dirt Engine 7.5';
   rsCheatEngine = strCheatEngine;
   rsPleaseWait = 'Please Wait!';
 
