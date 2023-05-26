@@ -1,6 +1,19 @@
+# Dirt Engine
+
+Dirt Engine is a variant of Cheat Engine with minimal changes made to circumvent Colin McRae Dirt 2's anticheat. This anticheat mostly just looks at window titles and detects words and phrases like "Cheat", "Cheat Engine", etc. and closes the game if any instances are found, hence the name change.
+
+For each Cheat Engine release, a new release of Dirt Engine will be provided. I don't keep up with CE releases, so there will be delays.
+
+Releases are simply the bin folder with precompiled 32 and 64 bit Windows executables. Most major features are available. If you require versions/features not included here, you'll have to compile them yourself.
+
+If you find something that triggers the game's anticheat, please [open an issue](https://github.com/burninrubber0/cheat-engine/issues/new) and I'll fix it when I can.
+
+
+<hr>
+
 <p align="center">
-    <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
-        <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
+    <a href="https://github.com/burninrubber0/cheat-engine/raw/master/Cheat%20Engine/images">
+        <img src="https://github.com/burninrubber0/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
 </p>
 
@@ -11,9 +24,9 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 # Download
 
-  * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
+  * **[Latest Version](https://github.com/burninrubber0/cheat-engine/releases/latest)**
 
-[Older versions](https://github.com/cheat-engine/cheat-engine/releases)
+[Older versions](https://github.com/burninrubber0/cheat-engine/releases)
 
 
 # Links
